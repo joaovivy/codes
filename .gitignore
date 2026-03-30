@@ -1,0 +1,11 @@
+# Arquivos compilados
+bin/
+*.class
+
+# Credenciais - NUNCA commitar este arquivo
+config.properties
+
+# IDEs
+.vscode/
+.idea/
+*.iml
